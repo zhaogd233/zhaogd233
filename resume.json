@@ -19,7 +19,7 @@
     "zhihu": "",
     "workExpYear": "12年",
     "workPlace": "北京",
-    "positionTitle": "u3d资深"
+    "positionTitle": "u3d资深客户端/性能优化专家"
   },
   "educationList": [
     {
@@ -38,17 +38,18 @@
   "workExpList": [
     {
       "work_time": [
-        "2026.1.1-至今"
+        "2026.1"
       ],
-      "company_name": "完美世界",
-      "department_name": "引擎部",
-      "work_desc": "负责三项所有u3d项目的性能优化，引擎相关开发"
+      "company_name": "完美世界-三项引擎部",
+      "department_name": "Unity性能优化专家",
+      "work_desc": "负责工作室旗下所有U3D项目的性能优化及引擎底层特性开发"
     },
     {
       "work_time": [
-        "2022.10-2025.12.31"
+        "2022.10",
+        "2025.12"
       ],
-      "company_name": "完美世界",
+      "company_name": "完美世界-PT项目组",
       "department_name": "性能优化组组长",
       "work_desc": "负责《天龙八部2》项目的性能优化，制定性能标准，安排性能工作",
       "dataIndex": 0
@@ -57,7 +58,8 @@
       "company_name": "乌萨尔科技",
       "department_name": "资深研发",
       "work_time": [
-        "2019.11-2022.10"
+        "2019.11",
+        "2022.10"
       ],
       "work_desc": "莉莉丝投资创业项目，研发like万国觉醒3d-SLG+x，《帕蒙战斗日记》前身",
       "dataIndex": 1
@@ -89,7 +91,7 @@
       ],
       "company_name": "北京趣游",
       "department_name": "移动产品一组",
-      "work_desc": "传统页游功能，新成立的手游组，一开始u3d小游戏，后做cocos2d-x网络卡牌游戏",
+      "work_desc": "页游公司，新成立的手游组，制作cocos2d-x网络卡牌游戏",
       "dataIndex": 4
     },
     {
@@ -123,12 +125,6 @@
       "dataIndex": 2
     },
     {
-      "skill_name": "算法",
-      "skill_desc": "熟悉常用的算法和数据结构",
-      "skill_level": 80,
-      "dataIndex": 3
-    },
-    {
       "skill_name": "优化",
       "skill_level": 80,
       "skill_desc": "熟悉资源、cpu、内存、gpu，发热等优化及其工具",
@@ -137,36 +133,36 @@
     {
       "skill_name": "渲染",
       "skill_level": 70,
-      "skill_desc": "熟悉UPR流程及渲染，能用shader实现游戏简单效果",
+      "skill_desc": "熟悉URP流程及渲染，能用shader实现游戏简单效果",
       "dataIndex": 5
     },
     {
       "skill_name": "AI",
       "skill_level": 80,
-      "skill_desc": "熟练使用各种ai工具",
+      "skill_desc": "熟练将 AI 辅助编程工具融入日常开发工作流，进行大型代码库分析、重构与提效。",
       "dataIndex": 6
     }
   ],
   "projectList": [
     {
       "project_name": "引擎部",
-      "project_role": "资深研发",
+      "project_role": "Unity性能优化专家",
       "project_desc": "\n负责完美世界，武林外传，诛仙，完美国际等u3d项目的性能优化。",
-      "project_content": "\n查询修复各项目组提交的疑难病症及其崩溃问题。\n制作游戏通用框架，该框架基于asmdef，分层设计，对ai优好，强化代码规范的约束\n对已有项目增加边玩边下功能，使用http/2多路复用，合并下载连接，减少发热。\nVAT动画方案制作，支持烘培顶点和烘培骨骼。\nGPU Instance头顶HUD",
+      "project_content": "\n负责定位并解决各项目组的底层Crash及疑难杂症。\n设计游戏通用框架，该框架基于asmdef，分层设计，逻辑表现分离。对ai优好，强约束代码规范\n对已有项目增加边玩边下功能，使用http/2多路复用，合并下载连接，减少发热。\nVAT动画方案制作，支持烘培顶点和烘培骨骼。\nGPU Instance头顶HUD",
       "dataIndex": 0
     },
     {
       "project_name": "天龙八部2",
       "project_role": "性能优化组组长",
       "project_desc": "\n《天龙八部2》是一款3d武侠MMO项目，自由视角、支持无缝大地图切图，轻功，首月流水4亿。\n",
-      "project_content": "\n负责项目整体性能问题。处理CPU，GPU，内存，发热，崩溃，模拟器适配等问题。\n制作pvs流式遮挡剔除,动态头像离线渲染等trick技巧。\n定制URP流程，并实现动态分辨率，粒子可变速率着色，runtime 压缩RT等features。\n动静分离阴影方案设计",
+      "project_content": "\n制定并落地项目性能标准，搭建自动化性能监控体系。处理CPU，GPU，内存，发热，崩溃，模拟器适配等问题。\n研发pvs流式遮挡剔除,动态头像离线渲染，自定义代码分析器等trick技巧。\n定制URP管线，并实现动态分辨率，粒子可变速率着色，runtime 压缩RT等features。\n动静分离阴影方案设计。\n设计性能分级策略，实现帧率、内存、发热波动时的画质自适应降级，提升低端机及模拟器留存率。",
       "dataIndex": 1
-    },
+    },  
     {
       "project_name": "卡塔纪元",
       "project_role": "资深研发",
       "project_time": "2019.11 - 2022.10",
-      "project_desc": "\n一款ROK like的SLG(3d)手游，大世界自由行军战斗，无极缩放，支持多人同时在线打怪，战斗行军，+x 俯视角射击玩法URP定制管线，ugui、xlua 热更方案",
+      "project_desc": "\n一款ROK like的SLG手游，大世界自由行军战斗，无极缩放，支持多人同时在线打怪，战斗行军，+x 俯视角射击玩法。",
       "project_content": "\n负责整个客户端框架的搭建，资源管理打包热更,ui模块控件扩展及其界面资源的优化。\n各部门资源项目的资源管线搭建，自动化流程。\nUGUI隐藏显示方案,GPU skin,lod模型缩放,手机收集shader变体等功能开发\n优化资源,CPU,GPU,内存相关的性能热点",
       "dataIndex": 2
     },
@@ -174,8 +170,8 @@
       "project_name": "塔瑞斯世界",
       "project_role": "资深研发",
       "project_time": "2019.1 - 2019.11",
-      "project_desc": "\n采用虚幻引擎制作的MMORPG游戏使用unlua热更方案。作为主力投入到研发下一代MT系列，并成功立项。",
-      "project_content": "\n负责框架搭建\n技能系统设计\n导表工具制作，Lua配表压缩分表加载",
+      "project_desc": "\n采用UE4制作的MMORPG游戏使用unlua热更方案。作为主力投入到研发下一代MT系列，并成功立项。",
+      "project_content": "\n负责框架搭建\n技能系统设计\n导表工具制作，Lua配表压缩分表加载，将配置表内存占用降低了70%",
       "dataIndex": 3
     },
     {
@@ -183,7 +179,7 @@
       "project_role": "高级研发",
       "project_time": "2016.5 - 2019.1",
       "project_desc": "\n一款大型西方魔幻3DMMORPG手游，腾讯独代，上线及其维护的所有流程。上线之后获得6榜第一的好成绩。采用unity3d研发NGUI、ulua方案，完整经历过从预研到立项研发上线。",
-      "project_content": "\n负责UI框架的搭建\n网络底层搭建\n道具系统、新手引导，红点系统，PVP玩法角色换装等模块的制作\n编辑器的编写等功能。",
+      "project_content": "\n负责UI框架的搭建，网络底层搭建\n道具系统、新手引导，红点系统，PVP玩法角色换装等模块的制作",
       "dataIndex": 4
     },
     {
@@ -203,7 +199,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "12年游戏研发经验，包含多年u3d开发经验，1年ue4，2年cocos2d-x经验。有多款完整上线MMO和SLG项目经验，良好端正的工作态度，学习能力强，抗压能力出色。"
+    "aboutme_desc": "12年游戏研发经验，精通Unity3D引擎及性能优化，具备1年UE4及2年Cocos2d-x开发经验。曾作为核心骨干完整参与多款高流水MMO和SLG项目。擅长从0到1搭建游戏框架与资源管线，在CPU/GPU性能调优、内存管理及渲染表现上有深厚积累，技术攻坚与抗压能力强。"
   },
   "theme": {
     "color": "#2f5785",
