@@ -19,7 +19,7 @@
     "zhihu": "",
     "workExpYear": "12年",
     "workPlace": "北京",
-    "positionTitle": "u3d资深客户端/性能优化专家"
+    "positionTitle": "u3d资深开发/性能优化专家"
   },
   "educationList": [
     {
@@ -99,7 +99,7 @@
         "2012.7",
         "2013.2"
       ],
-      "company_name": "北京方正科技",
+      "company_name": "北京方正",
       "department_name": "实习",
       "work_desc": "负责电⼦书阅读软件Apabi Reader的ios+android开发",
       "dataIndex": 5
@@ -147,15 +147,17 @@
     {
       "project_name": "引擎部",
       "project_role": "Unity性能优化专家",
+      "project_time": "2026.1-至今",
       "project_desc": "\n负责完美世界，武林外传，诛仙，完美国际等u3d项目的性能优化。",
-      "project_content": "\n负责定位并解决各项目组的底层Crash及疑难杂症。\n设计游戏通用框架，该框架基于asmdef，分层设计，逻辑表现分离。对ai优好，强约束代码规范\n对已有项目增加边玩边下功能，使用http/2多路复用，合并下载连接，减少发热。\nVAT动画方案制作，支持烘培顶点和烘培骨骼。\nGPU Instance头顶HUD",
+      "project_content": "\n负责定位并解决各项目组的性能优化、底层Crash及疑难杂症。\n设计游戏通用框架，该框架基于asmdef，分层设计，逻辑表现分离。对ai优好，强约束代码规范\n对已有项目增加边玩边下功能，使用http/2多路复用，合并下载连接，减少发热。\nVAT动画方案制作，支持烘培顶点和烘培骨骼。\n割草项目GPU Instance头顶HUD",
       "dataIndex": 0
     },
     {
       "project_name": "天龙八部2",
       "project_role": "性能优化组组长",
-      "project_desc": "\n《天龙八部2》是一款3d武侠MMO项目，自由视角、支持无缝大地图切图，轻功，首月流水4亿。\n",
-      "project_content": "\n制定并落地项目性能标准，搭建自动化性能监控体系。处理CPU，GPU，内存，发热，崩溃，模拟器适配等问题。 \n研发场景剔除方案：地形分块，gpu driven草，大世界建筑使用流式pvs+HLOD。\n定制URP管线，并实现动态分辨率，动态头像离线渲染，基于离屏RT的降采样粒子渲染，runtime 压缩RT等features。\n动静分离阴影方案设计。\n设计性能分级策略，实现帧率、内存、发热波动时的画质自适应降级，提升低端机及模拟器留存率。",
+      "project_time": "2022.10 - 2025.12",
+      "project_desc": "\n《天龙八部2》是一款大型3d武侠MMO项目，自由视角、支持无缝大地图、轻功，首月流水5亿。\n",
+      "project_content": "\n制定并落地项目性能标准，搭建自动化性能监控体系。处理CPU，GPU，内存，发热，崩溃，模拟器适配等问题。 \n研发场景剔除方案：地形分块，gpu driven草，大世界建筑使用流式pvs+HLOD。\n定制URP管线，并实现动态分辨率，动态头像离线渲染，基于离屏RT的降采样粒子渲染，runtime 压缩RT等feature。\n动静分离多帧阴影方案设计。\n设计性能分级策略，实现帧率、内存、发热波动时的画质自适应降级，提升低端机及模拟器留存率，ios2g内存崩溃率从4降到1。",
       "dataIndex": 1
     },  
     {
@@ -178,7 +180,7 @@
       "project_name": "我叫MT4",
       "project_role": "高级研发",
       "project_time": "2016.5 - 2019.1",
-      "project_desc": "\n一款大型西方魔幻3DMMORPG手游，腾讯独代，上线及其维护的所有流程。上线之后获得6榜第一的好成绩。采用unity3d研发NGUI、ulua方案，完整经历过从预研到立项研发上线。",
+      "project_desc": "\n一款大型西方魔幻3DMMORPG手游，腾讯独代，上线及其维护的所有流程。上线之后获得6榜第一、首月流水10亿的好成绩。采用unity3d研发NGUI、ulua方案，完整经历过从预研到立项研发上线。",
       "project_content": "\n负责UI框架的搭建，网络底层搭建\n道具系统、新手引导，红点系统，PVP玩法角色换装等模块的制作",
       "dataIndex": 4
     },
